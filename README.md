@@ -1,6 +1,8 @@
 # eda-ds-job-salaries
 ### Exploratory Data Analysis on Data Science job salaries
 
+Find the Jupyter notebook here : https://jovian.ai/1242sanjay/exploratory-data-analysis-project-2
+
 [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis) is an approach of analyzing data sets to summarize their main characteristics, often using statistical graphics and other data visualization methods.
 
 The main purpose of [EDA](https://www.ibm.com/cloud/learn/exploratory-data-analysis) is to help look at data before making any assumptions. It can help identify obvious errors, as well as better understand patterns within the data, detect outliers or anomalous events, find interesting relations among the variables.
